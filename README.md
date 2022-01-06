@@ -4,10 +4,6 @@
 
 <p align="center">This dating app is a boilerplate for any react native developer who wants to build a dating app. The goal of this boilerplate is to provide a fully functional dating app which can be reused with very little to no modification.</p>
 
-Note
-=======
-
-> You can also get the app on play store https://play.google.com/store/apps/details?id=com.recraftreactnativedatingapp
 
 Documentation
 =======
@@ -110,16 +106,3 @@ We can directly run the app
 ```
 npx react-native run-android
 ```
-Note
-=======
-
-> Once you clone and if you want to change the name of the application you can follow this article https://medium.com/the-react-native-log/how-to-rename-a-react-native-app-dafd92161c35
-
-Contributors
-=======
-* [manojsinghnegiwd](https://github.com/manojsinghnegiwd) - Manoj Singh Negi
-* [yashkapoor8710](https://github.com/yashkapoor8710) - Yogesh Kapoor
-
-Sponsors
-=======
-[<img src="http://www.recraftstudio.com/images/logo.png" alt="Recraft Relic Private Limited" width="50"/>](http://www.recraftrelic.com)
