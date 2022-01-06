@@ -17,10 +17,8 @@ Documentation
 * [Pages](https://documentation.recraftrelic.com/datingapp/docs/Pages/)
 * [Available Hooks](https://documentation.recraftrelic.com/datingapp/docs/Hooks/)
 
-Browse the full documentation on ( [https://documentation.recraftrelic.com/datingapp/docs/Installation/](https://documentation.recraftrelic.com/datingapp/docs/Installation/) )
 
-
-IOS Demo
+iOS Demo
 =======
 <p align="center">
   <img width="250" src="./images/previews/ios-1.gif"><img width="250" src="./images/previews/ios-2.gif"><img width="250" src="./images/previews/ios-3.gif">
@@ -80,12 +78,12 @@ Steps to Run the Project in Development Mode
 Use the Below Commands to Clone the project and enter inside the Directory
 After that Install the Dependencies.
 ```
-git clone git@github.com:recraftrelic/recraft-react-native-dating-app.git
-cd recraft-react-native-dating-app
+git clone git@github.com:labaiv63/hybrid-dating-app-react-native.git
+cd hybrid-dating-app-react-native
 yarn install
 ```
 
-### IOS
+### iOS
 We can directly run the app
 ```
 npx react-native run-ios
